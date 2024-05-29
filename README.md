@@ -1,3 +1,5 @@
+![Alt text](/2._Host_a_WordPress_Website_on_AWS.png)
+
 # Hosting a WordPress Website on AWS
 
 This project demonstrates how to host a WordPress website on AWS, leveraging various AWS services and resources to ensure a scalable, fault-tolerant, and secure environment. The setup includes VPC configuration, EC2 instances, an Application Load Balancer, Auto Scaling, RDS for the database, EFS for shared file storage, and more.
